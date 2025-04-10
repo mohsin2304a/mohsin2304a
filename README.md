@@ -1,5 +1,5 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Muhammad%20Mohsin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniyal-javadia-849aa832a/)
-[![Mail](https://img.shields.io/badge/Mail-Muhammad mohsinworks@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Muhammad Mohsinworks@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Muhammad%20Mohsin-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/MuhammadMohsin-849aa832a/)
+[![Mail](https://img.shields.io/badge/Mail-mohsin2304a@aptechgdn.net-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mohsin2304a@aptechgdn.net)
 
 <!-- Typing Effect -->
 <p align="center">
@@ -61,6 +61,7 @@
 ---
 
 ### 👨‍💻 **Portfolio**
+🔗 [(https://mohsin-personal-portfolio.netlify.app/)]](https://mohsin-personal-portfolio.netlify.app/)
 <p align="center">
   <img alt="Coding GIF" width="320px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
