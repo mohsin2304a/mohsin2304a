@@ -61,7 +61,7 @@
 ---
 
 ### 👨‍💻 **Portfolio**
-🔗 [(https://mohsin-personal-portfolio.netlify.app/)(https://mohsin-personal-portfolio.netlify.app/)
+🔗 https://mohsin-personal-portfolio.netlify.app/
 <p align="center">
   <img alt="Coding GIF" width="320px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
